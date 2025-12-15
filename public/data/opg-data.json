@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "OPG Ivicа",
+    "location": "Zagrebačka županija",
+    "category": "voće",
+    "products": ["jabuke", "kruške", "šljive"],
+    "contact": "ivica@opg.hr",
+    "phone": "091/111/111"
+  },
+  {
+    "id": 2,
+    "name": "OPG Marija",
+    "location": "Slavonski Brod",
+    "category": "mliječni",
+    "products": ["sir", "kajmak", "jogurt"],
+    "contact": "marija@opg.hr",
+    "phone": "092/222/222"
+  }
+]
