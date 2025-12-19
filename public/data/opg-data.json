@@ -3,18 +3,108 @@
     "id": 1,
     "name": "OPG Ivicа",
     "location": "Zagrebačka županija",
-    "category": "voće",
+    "municipality": "Dugo selo",
+    "category": "Voće",
     "products": ["jabuke", "kruške", "šljive"],
     "contact": "ivica@opg.hr",
-    "phone": "091/111/111"
+    "phone": "091/111/111",
+    "lat": 45.815,
+    "lng": 15.9819
   },
   {
     "id": 2,
     "name": "OPG Marija",
-    "location": "Slavonski Brod",
-    "category": "mliječni",
+    "location": "Koprivničko-križevačka",
+    "municipality": "Sv. Ivan Žabno",
+    "category": "Mliječni",
     "products": ["sir", "kajmak", "jogurt"],
     "contact": "marija@opg.hr",
-    "phone": "092/222/222"
+    "phone": "092/222/222",
+    "lat": 46.16,
+    "lng": 16.83
+  },
+  {
+    "id": 3,
+    "name": "OPG Majer",
+    "location": "Grad Zagreb",
+    "municipality": "Zagreb",
+    "category": "Povrće",
+    "products": ["kelj", "luk", "češnjak"],
+    "contact": "majer@opg.hr",
+    "phone": "094/322/422",
+    "lat": 45.815,
+    "lng": 15.9819
+  },
+  {
+    "id": 4,
+    "name": "OPG Kralj",
+    "location": "Bjelovarsko-bilogorska",
+    "municipality": "Ždralovi",
+    "category": "Voće",
+    "products": ["jagode", "trešnje", "višnje"],
+    "contact": "kralj@opg.hr",
+    "phone": "095/327/452",
+    "lat": 45.9,
+    "lng": 16.84
+  },
+  {
+    "name": "Stanko Baričević ",
+    "location": "Bjelovarsko-bilogorska",
+    "municipality": "Čazma",
+    "category": "Med",
+    "products": ["Med", "rakija od meda", "propolis"],
+    "contact": "",
+    "phone": "",
+    "lat": 45.75,
+    "lng": 16.61,
+    "id": 1766144545095
+  },
+  {
+    "name": "Mirko Mirić ",
+    "location": "Bjelovarsko-bilogorska",
+    "municipality": "Ivanska",
+    "category": "Voće",
+    "products": ["Kruške", "kompot", "rakija"],
+    "contact": "miroljub@gmail.com",
+    "phone": "0996547634",
+    "lat": 45.781,
+    "lng": 16.812,
+    "id": 1766145370530
+  },
+  {
+    "name": "Marjan Marjanović",
+    "location": "Koprivničko-križevačka",
+    "municipality": "Sv. Petar Orehovec",
+    "category": "Meso",
+    "products": ["kobasice", "švargle"],
+    "contact": "marmar@bmail.com",
+    "phone": "098 5281286",
+    "lat": "45.815000",
+    "lng": "15.981900",
+    "id": 1766152682546
+  },
+  {
+    "name": "Mirko Svirac",
+    "location": "Koprivničko-križevačka",
+    "municipality": "Križevci",
+    "category": "Žitarice",
+    "products": ["brašno"],
+    "contact": "mirisa@cmail.com",
+    "phone": "0976253462",
+    "lat": "46.022000",
+    "lng": "16.542000",
+    "id": 1766154940013
+  },
+  {
+    "name": "Šiško Vjeverović ",
+    "location": "Požeško-slavonska",
+    "municipality": "Nova Gradiška",
+    "category": "Meso",
+    "products": ["Kobasice", "čvraci", "kulen", "seka"],
+    "contact": "sisko@bmail.com",
+    "phone": "",
+    "lat": "45.26",
+    "lng": "17.38",
+    "id": 1766157889307
   }
 ]
