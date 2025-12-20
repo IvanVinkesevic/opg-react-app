@@ -16,18 +16,14 @@ function Select(props) {
             onChange={props.onCategoryChange}
             className="filter-select"
           >
-            <option value="">Odaberite kategoriju</option>
-            <option value="voće">Voće</option>
-            <option value="povrće">Povrće</option>
-            <option value="meso">Meso</option>
-            <option value="mliječni proizvodi">Mliječni proizvodi</option>
-            <option value="med i pčelinji proizvodi">
-              Med i pčelinji proizvodi
-            </option>
-            <option value="riba">Riba</option>
-            <option value="prehrambeni proizvodi">Prehrambeni proizvodi</option>
-            <option value="piće">Piće</option>
-            <option value="ostalo">Ostalo</option>
+            <option value="">Odaberi kategoriju...</option>
+            <option value="Voće">Voće</option>
+            <option value="Povrće">Povrće</option>
+            <option value="Mliječni">Mliječni proizvodi</option>
+            <option value="Med">Med i pčelinji proizvodi</option>
+            <option value="Meso">Meso i prerađevine</option>
+            <option value="Žitarice">Žitarice i brašno</option>
+            <option value="Ostalo">Ostalo</option>
           </select>
         </div>
       </div>
