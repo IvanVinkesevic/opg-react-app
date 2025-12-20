@@ -21,7 +21,7 @@ function App() {
               href="https://ivanvinkesevic.github.io/DidIvanovidvori/"
               style={{ marginLeft: "20px", color: "white" }}
             >
-              ← Povratak na glavnu stranicu
+              Povratak na početnu stranicu
             </a>
             <img
               src="/irs-logo2.png"
@@ -29,7 +29,7 @@ function App() {
               className="logo"
             />
             <h1>
-              OPG Platforma -<span> DidIvanovidvori</span>{" "}
+              OPG Platforma -<span> Did Ivanovi dvori</span>{" "}
             </h1>
           </div>
         </header>

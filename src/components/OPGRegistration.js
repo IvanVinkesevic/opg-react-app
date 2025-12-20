@@ -141,7 +141,7 @@ function OPGRegistration() {
 
   return (
     <div className="sadrzaj" style={{ maxWidth: "800px", margin: "0 auto" }}>
-      <h1>Prijavite svoj OPG u našu bazu</h1>
+      <h1>Objavite prodaju svojih proizvoda na našoj stranici!</h1>
 
       <div
         style={{
@@ -153,8 +153,8 @@ function OPGRegistration() {
       >
         <p style={{ fontSize: "16px", lineHeight: "1.6", margin: 0 }}>
           <strong>Besplatna promocija za lokalne OPG-ove!</strong> Prijavite se
-          i povećajte vidljivost vašeg OPG-a u okolici Samarića, Ivanske,
-          Bjelovarsko-bilogorske županije i šire.
+          i povećajte vidljivost vašeg OPG-a! Mi ne posredujemo u prodaji, želja
+          nam je da što više ljudi kupuje domaće i jede zdravo.
         </p>
       </div>
 
@@ -551,7 +551,7 @@ function OPGRegistration() {
         >
           <li>
             <strong>Besplatna promocija</strong> - Potpuno besplatno za sve
-            OPG-ove
+            proizvođače domaćih proizvoda
           </li>
           <li>
             <strong>Lokalna vidljivost</strong> - Povećajte prodaju lokalnim
